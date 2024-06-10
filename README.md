@@ -6,9 +6,9 @@ Hey there, fellow coder! I'm Rahul and you've just stumbled upon the wackiest co
 
 I'm a code-wrangling, bug-squashing, caffeine-dependent lifeform with a passion for turning coffee into code. My natural habitat is somewhere between the lines of a Python script and the CSS of a beautifully chaotic website. Here’s a snapshot of my skills:
 
-- **Languages:** Python, JavaScript, C++, HTML, CSS, SQL
-- **Frameworks & Libraries:** React, Node.js, Django, Flask, Bootstrap
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS, Jenkins
+- **Languages:** Python, Scala,JavaScript, C++, HTML, CSS, SQL
+- **Frameworks & Libraries:** Django, Flask, Bootstrap,Fast API,Spark
+- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,8 +16,8 @@ I'm a code-wrangling, bug-squashing, caffeine-dependent lifeform with a passion 
 <a href="https://linkedin.com/in/irahulyadav21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irahulyadav21/" height="30" width="40" /></a>
 <a href="https://fb.com/irahulyadav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irahulyadav21" height="30" width="40" /></a>
 <a href="https://instagram.com/irahulyadav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irahulyadav21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gateprep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gateprep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yadavr11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadavr11" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6snRMq4t0ecuBpdLDfFyfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gateprep" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yadavr21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadavr11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/irahulyadav21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="irahulyadav21" height="30" width="40" /></a>
 </p>
 
